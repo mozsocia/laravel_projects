@@ -1,0 +1,15 @@
+{
+  "favorites.resources": [
+    "app",
+    "database\\migrations",
+    "app\\Http\\Controllers",
+    "resources\\views",
+    "routes"
+  ],
+  "favorites.sortOrder": "MANUAL",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#740a65",
+    "titleBar.activeBackground": "#11a37f",
+    "titleBar.activeForeground": "#F1FDF3"
+  }
+}
